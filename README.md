@@ -4,7 +4,7 @@ A Python and retrieval-augmented generation (RAG) prototype that turns an NIH No
 
 ## Sample result
 
-The demo indexed **7,512 text chunks** and retrieved the **50 most relevant passages** across **13 papers**. It generated five funding-aligned research ideas and developed the selected idea, **Network-Informed Digital Care Transitions for Serious Mental Illness**, into a [first-draft PDF](Research%20Proposal%20First%20Draft.pdf).
+The demo indexed **7,512 text chunks** and retrieved the **50 most relevant passages** across **13 papers**. It generated five funding-aligned research ideas and developed the selected idea, **Network-Informed Digital Care Transitions for Serious Mental Illness**, into a Research Proposal First Draft
 
 The draft received **2 out of 5** on an advisory LLM rubric covering innovation, significance, approach, and investigator expertise. The score flagged the need for further refinement and expert review.
 
